@@ -26,3 +26,8 @@
   border-radius: 50%;
   height: 150px;
 }
+
+#main-img{
+  border-radius: 3%;
+  border: 1.5px solid black;
+}
